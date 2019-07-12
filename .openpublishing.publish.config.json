@@ -16,22 +16,6 @@
       "template_folder": "_themes"
     },
     {
-      "docset_name": "e2eppe-biztalk-technical-reference",
-      "build_source_folder": "technical-reference",
-      "build_output_subfolder": "e2eppe-technical-reference",
-      "locale": "en-us",
-      "monikers": [],
-      "moniker_ranges": [],
-      "open_to_public_contributors": false,
-      "type_mapping": {
-        "Conceptual": "Content",
-        "ManagedReference": "Content",
-        "RestApi": "Content"
-      },
-      "build_entry_point": "docs",
-      "template_folder": "_themes"
-    },
-    {
       "docset_name": "e2eppe-biztalk-docs",
       "build_source_folder": "biztalk",
       "build_output_subfolder": "e2eppe-biztalk-docs",
@@ -41,6 +25,22 @@
       "open_to_public_contributors": true,
       "type_mapping": {
         "Conceptual": "Content"
+      },
+      "build_entry_point": "docs",
+      "template_folder": "_themes"
+    },
+    {
+      "docset_name": "e2eppe-biztalk-technical-reference",
+      "build_source_folder": "technical-reference",
+      "build_output_subfolder": "e2eppe-biztalk-technical-reference",
+      "locale": "en-us",
+      "monikers": [],
+      "moniker_ranges": [],
+      "open_to_public_contributors": true,
+      "type_mapping": {
+        "Conceptual": "Content",
+        "ManagedReference": "Content",
+        "RestApi": "Content"
       },
       "build_entry_point": "docs",
       "template_folder": "_themes"
