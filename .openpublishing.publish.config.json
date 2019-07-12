@@ -1,9 +1,9 @@
 {
   "docsets_to_publish": [
     {
-      "docset_name": "biztalk",
+      "docset_name": "e2eppe-biztalk",
       "build_source_folder": "biztalk",
-      "build_output_subfolder": "biztalk",
+      "build_output_subfolder": "e2eppe-biztalk",
       "locale": "en-us",
       "monikers": [],
       "open_to_public_contributors": true,
@@ -16,9 +16,9 @@
       "template_folder": "_themes"
     },
     {
-      "docset_name": "biztalk-technical-reference",
+      "docset_name": "e2eppe-biztalk-technical-reference",
       "build_source_folder": "technical-reference",
-      "build_output_subfolder": "technical-reference",
+      "build_output_subfolder": "e2eppe-technical-reference",
       "locale": "en-us",
       "monikers": [],
       "moniker_ranges": [],
@@ -46,9 +46,9 @@
       "template_folder": "_themes"
     },
     {
-      "docset_name": "his",
+      "docset_name": "e2eppe-his",
       "build_source_folder": "his",
-      "build_output_subfolder": "his",
+      "build_output_subfolder": "e2eppe-his",
       "locale": "en-us",
       "monikers": [],
       "moniker_ranges": [],
